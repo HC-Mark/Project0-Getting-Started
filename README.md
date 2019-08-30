@@ -5,7 +5,7 @@ Project 0 Getting Started
 
 * Tianming Xu (Mark)
   * www.linkedin.com/in/tianming-xu-8bb81816a (LinkedIn)
-* Tested on: (TODO) Windows 10, i7-8700 @ 3.20GHz 16GB, GTX 2080 8192MB (my personal desktop)
+* Tested on: Windows 10, i7-8700 @ 3.20GHz 16GB, GTX 2080 8192MB (my personal desktop)
 
 ### Readme for project 0
 
