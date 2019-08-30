@@ -11,17 +11,17 @@ Project 0 Getting Started
 
 Screenshot for CUDA modification:
 
-![](images/ModifyCuda.png)
+![](images/ModifyCuda.PNG)
 
 Screenshot for WebGL compatibility:
 
-![](images/WebGL compatibility.png)
+![](images/WebGL compatibility.PNG)
 
 
 
 screenshot for Performance analysis report
 
-![](images/performance.png)
+![](images/performance.PNG)
 
 
 
