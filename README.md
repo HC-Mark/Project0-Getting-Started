@@ -3,12 +3,39 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Tianming Xu (Mark)
+  * www.linkedin.com/in/tianming-xu-8bb81816a (LinkedIn)
+* Tested on: (TODO) Windows 10, i7-8700 @ 3.20GHz 16GB, GTX 2080 8192MB (my personal desktop)
 
-### (TODO: Your README)
+### Readme for project 0
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+Screenshot for CUDA modification:
+
+![](images/ModifyCuda.png)
+
+Screenshot for WebGL compatibility:
+
+![](images/WebGL compatibility.png)
+
+
+
+screenshot for Performance analysis report
+
+![](images/performance.png)
+
+
+
+Screenshot for CUDA debugger
+
+Auto page:
+
+![](images/auto.jpg)
+
+
+
+Warp Info:
+
+![](images/warp.png)
+
+For the last screenshot, I can't get access to CUDA info->Warp because my Graphics card is RTX 2080 which is not supported by legacy CUDA debugger. Hence, instead, I took a screenshot on the next gen debugger's Warp info page.
 
